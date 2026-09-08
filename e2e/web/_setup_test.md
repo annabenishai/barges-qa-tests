@@ -6,4 +6,4 @@ owner: qa-mobile-web
 source: dashboard-generated
 ---
 
-This file confirms the GitHub App push pipeline works end to end.
+Updated content — confirms the update (not just create) path works.
