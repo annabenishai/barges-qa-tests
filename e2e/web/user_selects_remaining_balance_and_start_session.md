@@ -4,7 +4,7 @@ type: e2e
 platform: web
 owner: qa-mobile-web
 source: dashboard-generated
-updated_at: 2026-09-08T16:12:00Z
+updated_at: 2026-09-08T16:12:01Z
 ---
 
 [web only] Swipe left to "Tap to use your remaining balance"
